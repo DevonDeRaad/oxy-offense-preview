@@ -1,3 +1,7 @@
+###R-script for Oxy Weekly Football article figures
+###Devon DeRaad
+###September-20-2016
+
 rush<- read.csv("~/Desktop/sciac rushing 2015.csv")
 pass<- read.csv("~/Desktop/sciac 2015 passing.csv")
 install.packages("ggthemes")
